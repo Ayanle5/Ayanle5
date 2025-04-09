@@ -7,9 +7,9 @@
 </a>
 
 <h3 align="left">
-  I am an aspiring software developer.<br>
+  I am an aspiring software developer. I’m passionate about building cool things with code and always learning something new.<br>
   Feel free to connect with me!<br>
-  📧 Email: <a href="mailto:ayanle3645@gmail.com">ayanle3645@gmail.com</a>
+  📧 Email: ayanle3645@gmail.com</a>
 
 </h3>
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 
 
 ![ayanle5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
