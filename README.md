@@ -9,7 +9,8 @@
 <h3 align="left">
   I am an aspiring software developer.<br>
   Feel free to connect with me!<br>
-  📧 Email: [ayanle3645@gmail.com](mailto:ayanle3645@gmail.com)
+  📧 Email: <a href="mailto:ayanle3645@gmail.com">ayanle3645@gmail.com</a>
+
 </h3>
 
 ---
