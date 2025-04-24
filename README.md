@@ -8,7 +8,7 @@
 
 <h3 align="left">
   I am an aspiring software developer. I’m passionate about building cool things with code and always learning something new.
-  Feel free to connect with me!<br>
+  Feel free to connect with me!<br> <br>
   Currently working on: Portfolio website <br>
   📧 Email: ayanle3645@gmail.com</a>
 
