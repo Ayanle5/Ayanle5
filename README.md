@@ -9,8 +9,7 @@
 <h3 align="left">
   I am an aspiring software developer. I’m passionate about building cool things with code and always learning something new.
   Feel free to connect with me!<br> <br>
-  ⚒️![GamingLagGIF](https://github.com/user-attachments/assets/f073bf44-60cc-4f60-ad26-13e72ebb1197)
-Currently working on: Portfolio website <br>
+  ⚒️ Currently working on: Portfolio website <br>
   📧 Email: ayanle3645@gmail.com</a>
 
 </h3>
@@ -30,7 +29,7 @@ Currently working on: Portfolio website <br>
 
 ---
 
-### 
+### ⚙️ Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -46,7 +45,7 @@ Currently working on: Portfolio website <br>
 
 ---
 
-### 📊 
+### 📊 Stats
 
 ![ayanle5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
