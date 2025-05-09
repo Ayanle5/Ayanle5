@@ -47,7 +47,7 @@
 
 ### 📊 Stats
 
-![ayanle5's Stats](https://github-readme-stats.vercel.app/api?username=ayanle5&theme=react&show_icons=true&hide_border=false&count_private=true)
+![ayanle5's Stats](https://github-readme-stats.vercel.app/api?username=ayanle5&theme=react&show_icons=true&hide_border=false&count_private=true) <br>
 ![ayanle5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&theme=react&show_icons=true&hide_border=false&layout=compact)
 ![Codewars Badge](https://www.codewars.com/users/Ayanle5/badges/large)
 
