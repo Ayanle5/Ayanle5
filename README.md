@@ -1,55 +1,69 @@
-<h1 align="left">Ayanle's GitHub Profile</h1>
+<img src="./header.svg" alt="Ayanle — Software Developer" width="100%"/>
 
----
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&random=true&width=435&height=75&lines=Hi%2C+I'm+Ayanle.+%F0%9F%91%8B;Welcome+to+my+github+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6366F1&background=00000000&center=false&vCenter=true&multiline=false&random=false&width=500&height=45&lines=Hi%2C+I'm+Ayanle+%F0%9F%91%8B;Aspiring+Software+Developer" alt="Typing SVG" />
 </a>
-
-<h3 align="left">
-  I am an aspiring software developer. I’m passionate about building cool things with code and always learning something new.
-  Feel free to connect with me!<br> <br>
-  ⚒️ Currently working on: <a href="https://www.linkedin.com/company/barosomali" target="_blank">BaroSomali</a>🔜 <br>
-  📧 Email: ayanle3645@gmail.com</a>
-
-</h3>
 
 ---
 
-### 🌐 Connect with Me
+## 👋 About Me
+
+I'm an aspiring software developer passionate about building cool things with code and always learning something new. Feel free to connect with me!
+
+- ⚒️ **Currently building:** [BaroSomali](https://github.com/ayanle5/BaroSomali) 🔜
+- 📧 **Email:** ayanle3645@gmail.com
+
+---
+
+## 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ayanle-ali-b08987265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://www.youtube.com/@Ayanle05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
 </div>
 
 ---
 
-### ⚙️ Languages and Tools
+## ⚙️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" title="Unity" />
 </div>
 
 ---
 
-### 📊 Stats
+## 📊 GitHub Stats
 
-![ayanle5's Stats](https://github-readme-stats.vercel.app/api?username=ayanle5&theme=react&show_icons=true&hide_border=false&count_private=true) <br>
-![ayanle5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&theme=react&show_icons=true&hide_border=false&layout=compact) <br>
-![Codewars Badge](https://www.codewars.com/users/Ayanle5/badges/large)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanle5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanle5&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanle5&style=flat-square&color=6366F1" alt="Profile Views" />
+</div>
+
+<br/>
+
+<img src="./footer.svg" alt="Footer" width="100%"/>
