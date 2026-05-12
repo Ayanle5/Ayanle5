@@ -48,11 +48,6 @@ I'm an aspiring software developer passionate about building cool things with co
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanle5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanle5&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanle5&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
