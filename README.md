@@ -12,7 +12,7 @@
 
 I'm an aspiring software developer passionate about building cool things with code and always learning something new. Feel free to connect with me!
 
-- ⚒️ **Currently building:** [BaroSomali](https://github.com/ayanle5/BaroSomali) 🔜
+- ⚒️ **Currently building:** [Ratethe90](https://github.com/ayanle5/Ratethe90) 🔜
 - 📧 **Email:** ayanle3645@gmail.com
 
 ---
